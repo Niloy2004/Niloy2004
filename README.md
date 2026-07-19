@@ -129,11 +129,11 @@ A responsive Weather Application built using JavaScript, Fetch API, and OpenWeat
 
 ### 🌐 Live Demo
 
-https://weather-app-rho-lime-53.vercel.app/
+https://weather-app-psi-roan-53.vercel.app/
 
 ### 💻 Source Code
 
-https://github.com/Niloy2004/Weather-App
+https://github.com/Niloy2004/Weather-app
 
 ---
 
