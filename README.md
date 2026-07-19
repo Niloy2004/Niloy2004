@@ -151,6 +151,18 @@ https://github.com/Niloy2004/ToDo-App
 
 ---
 
+---
+
+## 🛍️ Shop ERP Pro
+
+A full-featured Shop ERP (Enterprise Resource Planning) web application built to simplify day-to-day business operations. The system includes product management, inventory tracking, customer management, order processing, billing, sales management, and an intuitive dashboard for efficient business administration. Designed with a responsive and user-friendly interface, this project demonstrates practical full-stack development skills and real-world ERP functionality.
+
+### 💻 Source Code
+
+https://github.com/Niloy2004/ShopERP-Pro
+
+---
+
 ## 💼 Portfolio Website
 
 🚧 Coming Soon
