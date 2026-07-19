@@ -116,6 +116,20 @@ https://github.com/Niloy2004/Netflix
 
 ---
 
+## ✅ To-Do App
+
+A clean and responsive **To-Do List Application** built using **HTML, CSS, and JavaScript**. Easily add, manage, and organize your daily tasks with a simple and user-friendly interface.
+
+### 🌐 Live Demo
+
+https://todo-app-two-kappa-12.vercel.app/
+
+### 💻 Source Code
+
+https://github.com/Niloy2004/ToDo-App
+
+---
+
 ## 🌦 Weather App
 
 Responsive Weather Application using JavaScript and Weather API.
@@ -129,12 +143,6 @@ Responsive Weather Application using JavaScript and Weather API.
 Personal Developer Portfolio.
 
 🚧 Coming Soon
-
----
-
-## 📝 To-Do App
-
-Coming Soon
 
 ---
 
@@ -196,30 +204,18 @@ Coming Soon
 
 # 📂 Folder Structure
 
-```
-
+```text
 MERN-Stack/
-
 │
-
 ├── HTML/
-
 ├── CSS/
-
 ├── JavaScript/
-
 ├── React/
-
 ├── Node/
-
 ├── Express/
-
 ├── MongoDB/
-
 ├── Projects/
-
 └── README.md
-
 ```
 
 ---
@@ -228,7 +224,7 @@ MERN-Stack/
 
 This repository is a collection of everything I learn while becoming a MERN Stack Developer.
 
-Instead of only watching tutorials, I believe in learning by building real projects and improving my coding skills through consistent practice.
+Instead of only watching tutorials, I believe in learning by building real-world projects, solving problems, and improving my coding skills through consistent practice.
 
 ---
 
